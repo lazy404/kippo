@@ -1,2 +1,4 @@
 root:0:*
 oracle:500:*
+g4mes:0:*
+mysqldi:0:*
